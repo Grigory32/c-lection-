@@ -1,6 +1,6 @@
 ﻿Console.Clear();
-//Console.SetCursorPosition(10, 4);
-//Console.WriteLine("+");
+//Console.SetCursorPosition(10, 4); изменяет позицию курсора по осям xy 
+//Console.WriteLine("+"); ставит + на место где находится курсор 
 
 int xa = 40; 
 int ya = 1;
